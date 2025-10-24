@@ -1,5 +1,5 @@
 '''
-Simple Stream Cypher Demo Code
+Simple Stream Cypher Demo Code (Symmetric)
 Code below take user input to perform encryption and decryption with XOR function.
 The cypher key that used will be randomly generated for each input.
 '''
